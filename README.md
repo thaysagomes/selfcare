@@ -49,7 +49,7 @@ Cinza (background do footer): #F9F9F9
 Modelo está disponível na pasta `./design`<br>
 Imagens estão disponíveis na pasta `./assets`<br>
 
-- O layout pode ser visto e copiado diretamente do Figma <a href="shorturl.at/fhxL5" target="_blank">clicando aqui</a>. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
+- O layout pode ser visto e copiado diretamente do Figma por este link: shorturl.at/fhxL5. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
 
 # Fonte utilizada:
 - Lato
