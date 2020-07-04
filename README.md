@@ -1,79 +1,62 @@
 <br />
 <p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
-  </a>
+ 
+   <img src="design/desktop.png" width="380" height="380">
 
-  <h3 align="center">Amazing Graph</h3>
+
+  <h3 align="center">selfcare</h3>
 
   <p align="center">
-    Landing page to create amazing graphics
-       <br />
+    <!-- Crie uma página para exibição de produtos
+       <br /> -->
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
+    <a href="https://github.com/thaysagomes/OnlineShopping">Desafio</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+    <a href="https://www.linkedin.com/in/tcgms/">Contato</a>
   </p>
 </p>
 
 
 
-# Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+# Devchallenge 
+<a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
 
-# Challenge
-Your challenge is to build a landing page about a website that create graphics.<br><br>
-Seu desafio é criar uma página sobre um site de criação de gráficos.
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
+# Desafio
+Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>skincare</strong>. <br><br>
 
 # Techs: 
 HTML<br>
-CSS
+CSS<br>
+Framework ou linguagem que preferir
 
-# Getting start:
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
-1 - Use esse template ou baixe esse repositório com o código inicial<br>
+# Como começar:
+1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
 2 - Leia as instruções no readme.md<br>
 3 - Comece a codar!<br>
 4 - Compartilhe seu resultado com a comunidade :)<br>
 
-
-# Requirements:
-- Your page should get it looking as close to the design as possible<br>
-- Your page should be responsive<br>
-<br>
-
+# Requisitos:
 - Sua página deve se parecer o mais próximo possível do design<br>
 - Sua página deve ser responsiva<br>
 
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
-
-
-Feel free to use any workflow you are comfortable with :)
-
 # Colors:
-Orange: #D2872C<br>
-Gray: #766F68
+Verde: #5CA720<br>
+Preto: #161616<br>
+Cinza (linhas divisórias): #A5A1A1<br>
+Cinza (background do footer): #F9F9F9
 
 # Design:
-Design available in `./design` path<br>
-Images available in `./assets` path<br>
-<br>
-Modelo disponível na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`<br>
+Modelo está disponível na pasta `./design`<br>
+Imagens estão disponíveis na pasta `./assets`<br>
 
-# Font family:
-- Roboto
+O layout pode ser visto e copiado diretamente do Figma <a href="shorturl.at/fhxL5">clicando aqui</a>. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
 
-# Share!
-Initialize your project with this template in your github as a public repository<br>
-Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
+# Fonte utilizada:
+- Lato
 
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+# Compartilhe!
+Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
+Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
+Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
+
+Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
