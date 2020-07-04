@@ -1,7 +1,7 @@
 <br />
 <p align="center">
  
-   <img src="design/desktop.png" width="380" height="380">
+   <img src="design/desktop.png" width="380" height="580">
 
 
   <h3 align="center">selfcare</h3>
@@ -22,7 +22,7 @@
 <a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
 
 # Desafio
-Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>skincare</strong>. <br><br>
+Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
 
 # Techs: 
 HTML<br>
@@ -39,7 +39,7 @@ Framework ou linguagem que preferir
 - Sua página deve se parecer o mais próximo possível do design<br>
 - Sua página deve ser responsiva<br>
 
-# Colors:
+# Cores:
 Verde: #5CA720<br>
 Preto: #161616<br>
 Cinza (linhas divisórias): #A5A1A1<br>
@@ -49,14 +49,14 @@ Cinza (background do footer): #F9F9F9
 Modelo está disponível na pasta `./design`<br>
 Imagens estão disponíveis na pasta `./assets`<br>
 
-O layout pode ser visto e copiado diretamente do Figma <a href="shorturl.at/fhxL5">clicando aqui</a>. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
+- O layout pode ser visto e copiado diretamente do Figma <a href="shorturl.at/fhxL5" target="_blank">clicando aqui</a>. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
 
 # Fonte utilizada:
 - Lato
 
 # Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
+- Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
+- Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
+- Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
 
 Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
