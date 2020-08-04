@@ -49,7 +49,7 @@ Cinza (background do footer): #F9F9F9
 Modelo está disponível na pasta `./design`<br>
 Imagens estão disponíveis na pasta `./assets`<br>
 
-- O layout pode ser visto e copiado diretamente do Figma por este link: shorturl.at/fhxL5. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
+- O layout pode ser visto e copiado diretamente do Figma por este link: https://www.figma.com/file/d3XuxUt94vr0o4kBSo7IHC/Dev-Challenge?node-id=0%3A1. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
 
 # Fonte utilizada:
 - Lato
@@ -57,6 +57,6 @@ Imagens estão disponíveis na pasta `./assets`<br>
 # Compartilhe!
 - Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-- Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
+- Você também pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
 
 Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
