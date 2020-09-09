@@ -1,0 +1,112 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template: "t t" "b b" "m m" "fl fr" "ffl ffr";
+    width: 100%;
+    height: 100%;
+}
+
+.topo {
+    display: grid;
+    grid-area: t;
+    align-content: center;
+}
+
+.topo>span {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.topo>span img {
+    padding: 10px;
+}
+
+.banner {
+    display: grid;
+    grid-area: b;
+}
+
+.banner>img {
+    width: 100%;
+}
+
+.centro {
+    display: grid;
+    grid-area: m;
+    align-content: center;
+}
+
+.centro span ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.centro span ul li {
+    list-style: none;
+    padding: 0 30px 0 0;
+}
+
+.artigos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 30px 0 40px;
+}
+
+.artigos img {
+    width: 303px;
+    border-radius: 5px;
+    height: 303px;
+    left: 70px;
+    top: 612px;
+}
+
+.fl {
+    display: grid;
+    grid-area: fl;
+    align-content: center;
+}
+
+.fl ul li {
+    list-style: none;
+    padding: 0 30px 0 0;
+}
+
+.fr {
+    display: grid;
+    grid-area: fr;
+    justify-content: flex-end;
+    align-content: center;
+    padding: 0 30px 0 0;
+}
+
+.ffl {
+    display: flex;
+    grid-area: ffl;
+    align-content: center;
+    justify-content: flex-start;
+    padding: 0 0 0 30px;
+}
+
+.ffl>img {
+    padding: 10px;
+}
+
+.ffr {
+    display: flex;
+    grid-area: ffr;
+    align-content: center;
+    justify-content: flex-end;
+    padding: 0 30px 0 0;
+}
+
+.ffr>img {
+    padding: 10px;
+}
