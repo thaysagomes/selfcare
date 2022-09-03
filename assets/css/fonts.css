@@ -1,0 +1,33 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+.logo a {
+    font-weight: bolder;
+}
+
+.small-row h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.small-row h3 {
+    font-weight: lighter;
+}
+
+.fa.fa-quote-left {
+    font-size: 34px;
+}
+
+.col-3 p {
+    font-size: 12px;
+}
+
+.testimonial .col-3 h3 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.footer {
+    font-size: 14px;
+}

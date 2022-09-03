@@ -1,0 +1,53 @@
+nav ul li a {
+    color: #5ca720;
+}
+
+.logo a {
+    color: #161616;
+}
+
+.rating .fa {
+    color: #5ca720;
+}
+
+.testimonial .col-3 {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.fa.fa-quote-left {
+    color: #5ca720;
+}
+
+.col-3 p {
+    color: #a5a1a1;
+}
+
+.testimonial .col-3 h3 {
+    color: #161616;
+}
+
+.footer {
+    background:#f9f9f9;
+    color: #161616;
+}
+
+.footer p {
+    color: #a5a1a1;
+}
+
+.footer h3 {
+    color: #161616;
+}
+
+.footer-col-2 input {
+    border: 1px solid #a5a1a1;
+}
+
+.footer-col-2 a {
+    background-color: #5ca720;
+    color: #fff;
+}
+
+.footer-col-3 ul li {
+    color: #161616;
+}
