@@ -1,0 +1,39 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  font-size: 13px;
+  text-align: center;
+}
+.form-login input {
+  width: 300px;
+  height: 20px;
+}
+.login {
+  display: grid;
+  gap: 10px;
+  place-content: center center;
+  height: 60vh;
+  margin: 0;
+}
+.login-cadastro {
+  text-align: center;
+  list-style: none;
+  text-decoration: underline;
+  color: black;
+}
+.btn-form {
+  background-color: #5ca720;
+  text-align: center;
+  padding: 5px 0;
+  list-style: none;
+  color: white;
+}
+.btn-form :hover {
+  font-size: 100px;
+  background-color: black;
+}

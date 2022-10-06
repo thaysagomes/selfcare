@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+p {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  color: #161616;
+}
+img {
+  max-width: 100vw;
+}
+input {
+  width: 150px;
+  height: 30px;
+}
+#img-banner {
+  width: 100%;
+}
+hr {
+  background-color: #a5a1a1;
+  margin: 0;
+}
+ul li {
+  list-style: none;
+  margin-top: 10px;
+  font-weight: bold;
+}
+span {
+  font-weight: bold;
+  color: #5ca720;
+}
+a {
+  text-decoration: none;
+  list-style: none;
+}
+.conteiner-menu {
+  width: 100%;
+  height: 10vh;
+  gap: 900px;
+  display: flex;
+  justify-content: space-evenly;
+  background: #fcfcfc;
+}
+.icn-menu-estrela {
+  display: flex;
+  gap: 20px;
+  width: 25px;
+}
+.icn-menu-logo {
+  width: 90px;
+}
+.conteiner-menu-icon {
+  display: flex;
+  gap: 50px;
+  place-self: center end;
+}
+.icn-pesquisa {
+  width: 30px;
+}
+.icn-usuario {
+  width: 26px;
+}
+.icn-carrinho {
+  width: 26px;
+}
+.info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  height: 10vh;
+}
+.conteiner-info-promo {
+  grid-column: 1;
+  place-self: center start;
+  margin-left: 130px;
+}
+.conteiner-info-prod {
+  grid-column: 2;
+  place-self: center end;
+  margin-right: 150px;
+}
+.conteiner-produtos {
+  display: grid;
+  grid-template-columns: repeat(3, 400px);
+  justify-content: space-evenly;
+  gap: 30px;
+  margin-top: 10px;
+}
+.img-prod {
+  max-width: 100%;
+  height: 50vh;
+  place-self: center;
+  border-radius: 5px;
+}
+.info-prod {
+  place-self: start;
+}
+.info-preco {
+  place-self: start;
+}
+.produtos {
+  display: grid;
+  gap: 15px;
+  padding: 20px 10px;
+  justify-content: center;
+}
+.conteiner-footer {
+  display: grid;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 20px 0;
+
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #f9f9f9;
+}
+.info-footer {
+  display: grid;
+  grid-column: 1/2;
+  gap: 300px;
+  place-self: centerstart;
+}
+.footer-email {
+  display: grid;
+  gap: 10px;
+  width: 100px;
+  grid-column: 2/2;
+  place-self: center center;
+  margin-top: 5px;
+}
+.botao-footer {
+  border: 1px solid #5ca720;
+  background-color: #5ca720;
+  color: #fcfcfc;
+  padding: 0px 20px 10px 20px;
+  margin: 0;
+  border-radius: 5px;
+  text-align: center;
+}

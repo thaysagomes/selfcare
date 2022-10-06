@@ -19,7 +19,7 @@
 
 
 # Devchallenge 
-<a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
+<a href="https://devchallengge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
 
 # Desafio
 Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
